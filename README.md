@@ -1,4 +1,4 @@
-# Omega Launcher
+# Omega Launcher from Saul Henriquez
 Libre software launcher. <br/>
 [![Travis](https://img.shields.io/travis/otakuhqz/Omega.svg?style=for-the-badge)](https://travis-ci.org/otakuhqz/Omega)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
